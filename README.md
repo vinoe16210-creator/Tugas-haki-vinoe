@@ -1,17 +1,5 @@
-<div align="center">
-  <img width="160" height="160" alt="Logo GnR PetHouse" src="https://github.com/user-attachments/assets/dc24aced-793c-4b70-9ca5-f14c4f369795" />
   <h1>GnR PetHouse</h1>
   <p><strong>Aplikasi Kasir dan Manajemen Stok Pet Shop Berbasis Android</strong></p>
-
-  <p>
-    <img src="https://shields.io" alt="Platform Android" />
-    <img src="https://shields.io" alt="Frontend" />
-    <img src="https://shields.io" alt="Backend Node.js" />
-    <img src="https://shields.io" alt="Database MySQL" />
-  </p>
-</div>
-
----
 
 ## A. Identitas Produk Perangkat Lunak
 
